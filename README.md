@@ -41,4 +41,3 @@ A calculadora é um simples projeto produzido com o fim de praticar os primeiros
 Esse projeto está sob a licença MIT.
 
 ---
-
