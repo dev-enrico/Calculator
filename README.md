@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A calculadora é um simples projeto produzido com o fim de praticar os primeiros conceitos de front-end, utilizando ferramentas mais básicas que supram a função principal de calcular corretamente números com as operações mais simples da matemática.
 
-- [Visite o projeto online](https://dev-enrico.github.io/Calculadora)
+- [Visite o projeto online](https://dev-enrico.github.io/Calculator/)
 
 - [Visite o tutorial em vídeo online](https://www.youtube.com/watch?v=42TShjXR0m0)
 
